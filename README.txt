@@ -1,11 +1,15 @@
 # LoRa-E32-433T30D
 
-This project was developed for communication with the LoRa E32-433T30D module.
+This repository contains a simple LoRa project using the E32-433T30D module.
 
-It includes both transmitter and receiver codes.
+There are two main files in this project:
+- `transmitter.ino`
+- `receiver.ino`
 
-The main purpose of this project is to test and use wireless data communication with LoRa.
+These files are used for sending and receiving data between two devices.
 
-All files were prepared by a single developer.
+You can also adjust the project by yourself depending on the sensors you use.
 
-You can upload the `.ino` files to your boards and test the communication between transmitter and receiver.
+I used this project for Teknofest, and it can also be used for basic LoRa communication tests.
+
+This project was developed by a single person.
